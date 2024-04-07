@@ -1,6 +1,7 @@
 # Oracle SQL-Assignments
 
 ## Oracle SQL Assignment: Sublanguage Commands, Operators, and Functions
+
 ### Introduction:
 In this assignment, I have completed number of problems or tasks to demonstrate my understanding of Oracle SQL fundamentals. 
 Each query or task addresses a specific aspect of SQL querying in an Oracle database environment.
@@ -10,12 +11,13 @@ aggregation functions, date functions, and general functions.
 
 
 # Table of Contents
-Introduction
-DDL Commands
-DML Commands
-DQL Queries
-Operators
-Functions
+
+* Introduction
+* DDL Commands
+* DML Commands
+* DQL Queries
+* Operators
+* Functions
 
 ## Introduction
 This assignment aims to demonstrate proficiency in Oracle SQL by implementing and understanding various sublanguage commands, 
